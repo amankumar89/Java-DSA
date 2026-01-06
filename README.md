@@ -3,7 +3,7 @@
 This repository contains my structured journey of learning **Java Programming** and **Data Structures & Algorithms**.
 
 ## 📌 Topics Covered
-- Java Basic
+- Java Basics
 <!-- & OOP
 - Arrays & Strings
 - Recursion & Backtracking
