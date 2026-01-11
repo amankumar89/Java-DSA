@@ -6,7 +6,7 @@
   123
  1234
 */
-package c_patterns;
+package b_patterns;
 
 import java.util.Scanner;
 

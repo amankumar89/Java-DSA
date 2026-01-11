@@ -12,7 +12,7 @@ Pattern for N = 4
  */
 
 
-package c_patterns;
+package b_patterns;
 
 import java.util.Scanner;
 
