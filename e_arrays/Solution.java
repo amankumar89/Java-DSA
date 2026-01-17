@@ -16,7 +16,9 @@ public class Solution {
 				arr[i] = sc.nextInt();
 			}
 			
-			SelectionSort.selectionSort(arr);
+			int k = sc.nextInt();
+			
+			RotateArrayByK.rotate(arr, k);
 			
 			for (int i : arr) {
 				System.out.print(i +" ");
