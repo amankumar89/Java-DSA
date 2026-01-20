@@ -33,6 +33,6 @@ public class Sort012 {
 		int i = 0;
 		while(zeroCount > 0) arr[i++] = 0;
 		while(oneCount > 0) arr[i++] = 1;
-		while(twoCountyo > 0) arr[i++] = 2;
+		while(twoCount > 0) arr[i++] = 2;
 	}
 }
