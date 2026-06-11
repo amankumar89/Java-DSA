@@ -1,5 +1,7 @@
 package g_strings;
 
+import d_recursion.Palindrome;
+
 import java.util.Scanner;
 
 public class Solution {
@@ -8,9 +10,13 @@ public class Solution {
 		Scanner s = new Scanner(System.in);
 		
 		String str = s.nextLine();
-		
-//		System.out.println(CountWords.count(str));
-		SubstringPrint.print(str);
+//		StringCharacterPrint
+//		CountWords.count(str)
+//		ReverseString.reverse(str);
+//		PalindromeString.checkBetter(str);
+//		SubstringPrint.print(str);
+//		ReverseEachWord.reverse(str);
+//		WordWiseStringReverse.reverse(str);
 		s.close();
 	}
 }
