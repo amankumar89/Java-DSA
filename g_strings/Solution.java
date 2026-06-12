@@ -1,7 +1,5 @@
 package g_strings;
 
-import d_recursion.Palindrome;
-
 import java.util.Scanner;
 
 public class Solution {
@@ -17,6 +15,11 @@ public class Solution {
 //		SubstringPrint.print(str);
 //		ReverseEachWord.reverse(str);
 //		WordWiseStringReverse.reverse(str);
+//		PermutationCheck.checkBruteForce("abcde", "dcaeb");
+//		RemoveConsecutiveDuplicates.remove(str);
+//		RemoveCharacter.remove(str, 'y');
+//		HighestOccuringChar.find(str);
+		CompressedString.find(str);
 		s.close();
 	}
 }
